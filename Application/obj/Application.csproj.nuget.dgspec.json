@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\TicketManagement\\Application\\Application.csproj": {}
+    "D:\\Coding Learning\\12. Clean Architecture\\Gril cleeren\\CA-Learning-TicketManagement\\Application\\Application.csproj": {}
   },
   "projects": {
-    "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\TicketManagement\\Application\\Application.csproj": {
+    "D:\\Coding Learning\\12. Clean Architecture\\Gril cleeren\\CA-Learning-TicketManagement\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\TicketManagement\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\Coding Learning\\12. Clean Architecture\\Gril cleeren\\CA-Learning-TicketManagement\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\TicketManagement\\Application\\Application.csproj",
+        "projectPath": "D:\\Coding Learning\\12. Clean Architecture\\Gril cleeren\\CA-Learning-TicketManagement\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Nguyen Tuan Anh\\.nuget\\packages\\",
-        "outputPath": "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\TicketManagement\\Application\\obj\\",
+        "outputPath": "D:\\Coding Learning\\12. Clean Architecture\\Gril cleeren\\CA-Learning-TicketManagement\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -33,8 +33,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\TicketManagement\\Domain\\Domain.csproj": {
-                "projectPath": "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\TicketManagement\\Domain\\Domain.csproj"
+              "D:\\Coding Learning\\12. Clean Architecture\\Gril cleeren\\CA-Learning-TicketManagement\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Coding Learning\\12. Clean Architecture\\Gril cleeren\\CA-Learning-TicketManagement\\Domain\\Domain.csproj"
               }
             }
           }
@@ -48,6 +48,24 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -67,14 +85,14 @@
         }
       }
     },
-    "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\TicketManagement\\Domain\\Domain.csproj": {
+    "D:\\Coding Learning\\12. Clean Architecture\\Gril cleeren\\CA-Learning-TicketManagement\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\TicketManagement\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Coding Learning\\12. Clean Architecture\\Gril cleeren\\CA-Learning-TicketManagement\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\TicketManagement\\Domain\\Domain.csproj",
+        "projectPath": "D:\\Coding Learning\\12. Clean Architecture\\Gril cleeren\\CA-Learning-TicketManagement\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Nguyen Tuan Anh\\.nuget\\packages\\",
-        "outputPath": "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\TicketManagement\\Domain\\obj\\",
+        "outputPath": "D:\\Coding Learning\\12. Clean Architecture\\Gril cleeren\\CA-Learning-TicketManagement\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

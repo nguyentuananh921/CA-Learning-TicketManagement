@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\TicketManagement\\Domain\\Domain.csproj": {}
+    "D:\\Coding Learning\\12. Clean Architecture\\Gril cleeren\\CA-Learning-TicketManagement\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\TicketManagement\\Domain\\Domain.csproj": {
+    "D:\\Coding Learning\\12. Clean Architecture\\Gril cleeren\\CA-Learning-TicketManagement\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\TicketManagement\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Coding Learning\\12. Clean Architecture\\Gril cleeren\\CA-Learning-TicketManagement\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\TicketManagement\\Domain\\Domain.csproj",
+        "projectPath": "D:\\Coding Learning\\12. Clean Architecture\\Gril cleeren\\CA-Learning-TicketManagement\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Nguyen Tuan Anh\\.nuget\\packages\\",
-        "outputPath": "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\TicketManagement\\Domain\\obj\\",
+        "outputPath": "D:\\Coding Learning\\12. Clean Architecture\\Gril cleeren\\CA-Learning-TicketManagement\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -1,0 +1,5 @@
+D:\Coding Learning\12. Clean Architecture\Gril cleeren\CA-Learning-TicketManagement\Application\bin\Debug\net5.0\Domain.dll
+D:\Coding Learning\12. Clean Architecture\Gril cleeren\CA-Learning-TicketManagement\Application\obj\Debug\net5.0\Application.csprojAssemblyReference.cache
+D:\Coding Learning\12. Clean Architecture\Gril cleeren\CA-Learning-TicketManagement\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Learning\12. Clean Architecture\Gril cleeren\CA-Learning-TicketManagement\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+D:\Coding Learning\12. Clean Architecture\Gril cleeren\CA-Learning-TicketManagement\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
