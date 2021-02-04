@@ -3,3 +3,18 @@ D:\Coding Learning\12. Clean Architecture\Gril cleeren\CA-Learning-TicketManagem
 D:\Coding Learning\12. Clean Architecture\Gril cleeren\CA-Learning-TicketManagement\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
 D:\Coding Learning\12. Clean Architecture\Gril cleeren\CA-Learning-TicketManagement\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
 D:\Coding Learning\12. Clean Architecture\Gril cleeren\CA-Learning-TicketManagement\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\Application\bin\Debug\net5.0\Domain.dll
+F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\Application\obj\Debug\net5.0\Application.csprojAssemblyReference.cache
+F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\Application\bin\Debug\net5.0\Application.deps.json
+F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\Application\bin\Debug\net5.0\Application.dll
+F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\Application\bin\Debug\net5.0\ref\Application.dll
+F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\Application\bin\Debug\net5.0\Application.pdb
+F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\Application\bin\Debug\net5.0\Domain.pdb
+F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\Application\obj\Debug\net5.0\Application.dll
+F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\Application\obj\Debug\net5.0\ref\Application.dll
+F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\Application\obj\Debug\net5.0\Application.pdb

@@ -29,6 +29,15 @@
           "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {}
         }
       },
+      "FluentValidation/9.5.0": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/FluentValidation.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/FluentValidation.dll": {}
+        }
+      },
       "MediatR/9.0.0": {
         "type": "package",
         "compile": {
@@ -140,6 +149,24 @@
         "automapper.extensions.microsoft.dependencyinjection.nuspec",
         "icon.png",
         "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll"
+      ]
+    },
+    "FluentValidation/9.5.0": {
+      "sha512": "gsu4SrlTgTCS57nynfUXmuEqOqQdsgZGd69dO4dJg/TRDvNTXKlw5TPKVoY/ieQLsmFBzd9ax/Y1Tx+8Ds3XKw==",
+      "type": "package",
+      "path": "fluentvalidation/9.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "fluent-validation-icon.png",
+        "fluentvalidation.9.5.0.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net461/FluentValidation.dll",
+        "lib/net461/FluentValidation.xml",
+        "lib/net5.0/FluentValidation.dll",
+        "lib/net5.0/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml"
       ]
     },
     "MediatR/9.0.0": {
@@ -350,6 +377,7 @@
       "AutoMapper >= 10.1.1",
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 8.1.0",
       "Domain >= 1.0.0",
+      "FluentValidation >= 9.5.0",
       "MediatR >= 9.0.0",
       "MediatR.Extensions.Microsoft.DependencyInjection >= 9.0.0"
     ]
@@ -362,11 +390,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Coding Learning\\12. Clean Architecture\\Gril cleeren\\CA-Learning-TicketManagement\\Application\\Application.csproj",
+      "projectUniqueName": "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\CA-Learning-TicketManagement\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "D:\\Coding Learning\\12. Clean Architecture\\Gril cleeren\\CA-Learning-TicketManagement\\Application\\Application.csproj",
+      "projectPath": "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\CA-Learning-TicketManagement\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\Nguyen Tuan Anh\\.nuget\\packages\\",
-      "outputPath": "D:\\Coding Learning\\12. Clean Architecture\\Gril cleeren\\CA-Learning-TicketManagement\\Application\\obj\\",
+      "outputPath": "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\CA-Learning-TicketManagement\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -388,8 +416,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Coding Learning\\12. Clean Architecture\\Gril cleeren\\CA-Learning-TicketManagement\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\Coding Learning\\12. Clean Architecture\\Gril cleeren\\CA-Learning-TicketManagement\\Domain\\Domain.csproj"
+            "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\CA-Learning-TicketManagement\\Domain\\Domain.csproj": {
+              "projectPath": "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\CA-Learning-TicketManagement\\Domain\\Domain.csproj"
             }
           }
         }
@@ -411,6 +439,10 @@
           "AutoMapper.Extensions.Microsoft.DependencyInjection": {
             "target": "Package",
             "version": "[8.1.0, )"
+          },
+          "FluentValidation": {
+            "target": "Package",
+            "version": "[9.5.0, )"
           },
           "MediatR": {
             "target": "Package",
