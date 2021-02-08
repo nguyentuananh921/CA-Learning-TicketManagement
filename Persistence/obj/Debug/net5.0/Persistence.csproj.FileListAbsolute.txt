@@ -1,0 +1,5 @@
+D:\Coding Learning\12. Clean Architecture\Gril cleeren\CA-Learning-TicketManagement\Persistence\obj\Debug\net5.0\Persistence.csprojAssemblyReference.cache
+D:\Coding Learning\12. Clean Architecture\Gril cleeren\CA-Learning-TicketManagement\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Learning\12. Clean Architecture\Gril cleeren\CA-Learning-TicketManagement\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+D:\Coding Learning\12. Clean Architecture\Gril cleeren\CA-Learning-TicketManagement\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+D:\Coding Learning\12. Clean Architecture\Gril cleeren\CA-Learning-TicketManagement\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache

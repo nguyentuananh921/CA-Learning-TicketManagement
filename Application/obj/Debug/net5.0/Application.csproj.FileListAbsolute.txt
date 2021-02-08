@@ -18,3 +18,7 @@ F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\
 F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\Application\obj\Debug\net5.0\Application.dll
 F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\Application\obj\Debug\net5.0\ref\Application.dll
 F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\Application\obj\Debug\net5.0\Application.pdb
+D:\Coding Learning\12. Clean Architecture\Gril cleeren\CA-Learning-TicketManagement\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+D:\Coding Learning\12. Clean Architecture\Gril cleeren\CA-Learning-TicketManagement\Application\obj\Debug\net5.0\Application.dll
+D:\Coding Learning\12. Clean Architecture\Gril cleeren\CA-Learning-TicketManagement\Application\obj\Debug\net5.0\ref\Application.dll
+D:\Coding Learning\12. Clean Architecture\Gril cleeren\CA-Learning-TicketManagement\Application\obj\Debug\net5.0\Application.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9jZCa2cqhC0XPbk6s6UDMe3UFTFLFGvldl3p5UA0s4JH/a6p6pddf0bLonT0qjqEfmUy6IeW/MdPBwf6+FxLhA==",
+  "dgSpecHash": "4rV4OYAeh7l2X4n4WmKLIuPwbvb4qlsq/7fBmsBQKQWoWHAZsddXeCefrgHzRjZ0vVutFNX6G+CPjAtj+tRXHw==",
   "success": true,
-  "projectFilePath": "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\CA-Learning-TicketManagement\\Domain\\Domain.csproj",
+  "projectFilePath": "D:\\Coding Learning\\12. Clean Architecture\\Gril cleeren\\CA-Learning-TicketManagement\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -10,3 +10,15 @@ F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\
 F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\Domain\obj\Debug\net5.0\Domain.dll
 F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\Domain\obj\Debug\net5.0\ref\Domain.dll
 F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\Domain\obj\Debug\net5.0\Domain.pdb
+D:\Coding Learning\12. Clean Architecture\Gril cleeren\CA-Learning-TicketManagement\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\Coding Learning\12. Clean Architecture\Gril cleeren\CA-Learning-TicketManagement\Domain\bin\Debug\net5.0\Domain.dll
+D:\Coding Learning\12. Clean Architecture\Gril cleeren\CA-Learning-TicketManagement\Domain\bin\Debug\net5.0\ref\Domain.dll
+D:\Coding Learning\12. Clean Architecture\Gril cleeren\CA-Learning-TicketManagement\Domain\bin\Debug\net5.0\Domain.pdb
+D:\Coding Learning\12. Clean Architecture\Gril cleeren\CA-Learning-TicketManagement\Domain\obj\Debug\net5.0\Domain.csprojAssemblyReference.cache
+D:\Coding Learning\12. Clean Architecture\Gril cleeren\CA-Learning-TicketManagement\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding Learning\12. Clean Architecture\Gril cleeren\CA-Learning-TicketManagement\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\Coding Learning\12. Clean Architecture\Gril cleeren\CA-Learning-TicketManagement\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\Coding Learning\12. Clean Architecture\Gril cleeren\CA-Learning-TicketManagement\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\Coding Learning\12. Clean Architecture\Gril cleeren\CA-Learning-TicketManagement\Domain\obj\Debug\net5.0\Domain.dll
+D:\Coding Learning\12. Clean Architecture\Gril cleeren\CA-Learning-TicketManagement\Domain\obj\Debug\net5.0\ref\Domain.dll
+D:\Coding Learning\12. Clean Architecture\Gril cleeren\CA-Learning-TicketManagement\Domain\obj\Debug\net5.0\Domain.pdb

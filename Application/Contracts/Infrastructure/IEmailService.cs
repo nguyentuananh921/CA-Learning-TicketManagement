@@ -1,4 +1,4 @@
-﻿using GloboTicket.TicketManagement.Application.Models.Mail;
+﻿using Application.Models.Mail;
 using System;
 using System.Collections.Generic;
 using System.Text;
