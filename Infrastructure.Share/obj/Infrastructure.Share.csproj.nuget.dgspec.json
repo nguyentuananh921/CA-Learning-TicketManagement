@@ -1,0 +1,233 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\CA-Learning-TicketManagement\\Infrastructure.Share\\Infrastructure.Share.csproj": {}
+  },
+  "projects": {
+    "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\CA-Learning-TicketManagement\\Application\\Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\CA-Learning-TicketManagement\\Application\\Application.csproj",
+        "projectName": "Application",
+        "projectPath": "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\CA-Learning-TicketManagement\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\Nguyen Tuan Anh\\.nuget\\packages\\",
+        "outputPath": "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\CA-Learning-TicketManagement\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nguyen Tuan Anh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\CA-Learning-TicketManagement\\Domain\\Domain.csproj": {
+                "projectPath": "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\CA-Learning-TicketManagement\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.5.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\CA-Learning-TicketManagement\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\CA-Learning-TicketManagement\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\CA-Learning-TicketManagement\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Nguyen Tuan Anh\\.nuget\\packages\\",
+        "outputPath": "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\CA-Learning-TicketManagement\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nguyen Tuan Anh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\CA-Learning-TicketManagement\\Infrastructure.Share\\Infrastructure.Share.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\CA-Learning-TicketManagement\\Infrastructure.Share\\Infrastructure.Share.csproj",
+        "projectName": "Infrastructure.Share",
+        "projectPath": "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\CA-Learning-TicketManagement\\Infrastructure.Share\\Infrastructure.Share.csproj",
+        "packagesPath": "C:\\Users\\Nguyen Tuan Anh\\.nuget\\packages\\",
+        "outputPath": "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\CA-Learning-TicketManagement\\Infrastructure.Share\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Nguyen Tuan Anh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\CA-Learning-TicketManagement\\Application\\Application.csproj": {
+                "projectPath": "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\CA-Learning-TicketManagement\\Application\\Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[22.1.2, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.22.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

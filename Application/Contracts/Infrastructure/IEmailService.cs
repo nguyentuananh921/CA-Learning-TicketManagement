@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GloboTicket.TicketManagement.Application.Contracts.Infrastructure
+namespace Application.Contracts.Infrastructure
 {
     public interface IEmailService
     {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qUUgZDd+afLbhZa2lSIKmjIDVchCgCgoVxIdBzlxQId5iD3H7WZ8NIWgniIwGmXfGmxggLmX8Dmwkdq+a7DSxg==",
+  "dgSpecHash": "LLJP7IULeUycumUzRLG8yKB8F7FUprdVa+EPmabCMlxe5f/rc7m9FNajE3hRVNrE5GK+D6pQ+qn0CP4kw4lboA==",
   "success": true,
-  "projectFilePath": "D:\\Coding Learning\\12. Clean Architecture\\Gril cleeren\\CA-Learning-TicketManagement\\Persistence\\Persistence.csproj",
+  "projectFilePath": "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\CA-Learning-TicketManagement\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nguyen Tuan Anh\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Nguyen Tuan Anh\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
@@ -83,8 +83,8 @@
     "C:\\Users\\Nguyen Tuan Anh\\.nuget\\packages\\system.runtime.handles\\4.3.0\\system.runtime.handles.4.3.0.nupkg.sha512",
     "C:\\Users\\Nguyen Tuan Anh\\.nuget\\packages\\system.runtime.interopservices\\4.3.0\\system.runtime.interopservices.4.3.0.nupkg.sha512",
     "C:\\Users\\Nguyen Tuan Anh\\.nuget\\packages\\system.runtime.numerics\\4.3.0\\system.runtime.numerics.4.3.0.nupkg.sha512",
-    "C:\\Users\\Nguyen Tuan Anh\\.nuget\\packages\\system.runtime.serialization.formatters\\4.3.0\\system.runtime.serialization.formatters.4.3.0.nupkg.sha512",
-    "C:\\Users\\Nguyen Tuan Anh\\.nuget\\packages\\system.runtime.serialization.json\\4.3.0\\system.runtime.serialization.json.4.3.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime.serialization.formatters\\4.3.0\\system.runtime.serialization.formatters.4.3.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime.serialization.json\\4.3.0\\system.runtime.serialization.json.4.3.0.nupkg.sha512",
     "C:\\Users\\Nguyen Tuan Anh\\.nuget\\packages\\system.runtime.serialization.primitives\\4.3.0\\system.runtime.serialization.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\Nguyen Tuan Anh\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
@@ -103,7 +103,7 @@
     "C:\\Users\\Nguyen Tuan Anh\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
     "C:\\Users\\Nguyen Tuan Anh\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\Nguyen Tuan Anh\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\Nguyen Tuan Anh\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []

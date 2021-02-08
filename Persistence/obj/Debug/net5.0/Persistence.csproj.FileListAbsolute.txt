@@ -3,3 +3,20 @@ D:\Coding Learning\12. Clean Architecture\Gril cleeren\CA-Learning-TicketManagem
 D:\Coding Learning\12. Clean Architecture\Gril cleeren\CA-Learning-TicketManagement\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
 D:\Coding Learning\12. Clean Architecture\Gril cleeren\CA-Learning-TicketManagement\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
 D:\Coding Learning\12. Clean Architecture\Gril cleeren\CA-Learning-TicketManagement\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\Persistence\bin\Debug\net5.0\Persistence.deps.json
+F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\Persistence\bin\Debug\net5.0\Persistence.dll
+F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\Persistence\bin\Debug\net5.0\ref\Persistence.dll
+F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\Persistence\bin\Debug\net5.0\Persistence.pdb
+F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\Persistence\bin\Debug\net5.0\Application.dll
+F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\Persistence\bin\Debug\net5.0\Domain.dll
+F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\Persistence\bin\Debug\net5.0\Application.pdb
+F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\Persistence\bin\Debug\net5.0\Domain.pdb
+F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\Persistence\obj\Debug\net5.0\Persistence.csprojAssemblyReference.cache
+F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\Persistence\obj\Debug\net5.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfoInputs.cache
+F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\Persistence\obj\Debug\net5.0\Persistence.AssemblyInfo.cs
+F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\Persistence\obj\Debug\net5.0\Persistence.csproj.CoreCompileInputs.cache
+F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\Persistence\obj\Debug\net5.0\Persistence.csproj.CopyComplete
+F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\Persistence\obj\Debug\net5.0\Persistence.dll
+F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\Persistence\obj\Debug\net5.0\ref\Persistence.dll
+F:\Code learning\Clean Architecture\Grill Cleerent\CA-Learning-TicketManagement\Persistence\obj\Debug\net5.0\Persistence.pdb

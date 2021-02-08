@@ -5944,11 +5944,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Coding Learning\\12. Clean Architecture\\Gril cleeren\\CA-Learning-TicketManagement\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\CA-Learning-TicketManagement\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "D:\\Coding Learning\\12. Clean Architecture\\Gril cleeren\\CA-Learning-TicketManagement\\Persistence\\Persistence.csproj",
+      "projectPath": "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\CA-Learning-TicketManagement\\Persistence\\Persistence.csproj",
       "packagesPath": "C:\\Users\\Nguyen Tuan Anh\\.nuget\\packages\\",
-      "outputPath": "D:\\Coding Learning\\12. Clean Architecture\\Gril cleeren\\CA-Learning-TicketManagement\\Persistence\\obj\\",
+      "outputPath": "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\CA-Learning-TicketManagement\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -5970,8 +5970,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Coding Learning\\12. Clean Architecture\\Gril cleeren\\CA-Learning-TicketManagement\\Application\\Application.csproj": {
-              "projectPath": "D:\\Coding Learning\\12. Clean Architecture\\Gril cleeren\\CA-Learning-TicketManagement\\Application\\Application.csproj"
+            "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\CA-Learning-TicketManagement\\Application\\Application.csproj": {
+              "projectPath": "F:\\Code learning\\Clean Architecture\\Grill Cleerent\\CA-Learning-TicketManagement\\Application\\Application.csproj"
             }
           }
         }
